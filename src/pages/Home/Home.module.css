@@ -1,0 +1,42 @@
+.homeContainer {
+  max-width: 144rem;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10rem;
+}
+
+.homeContainerInfosText p:first-child {
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #10b817;
+}
+
+.homeContainerInfosText p span {
+  background-color: #10b817;
+  border-radius: 0.4rem;
+  color: #fff;
+  font-weight: 700;
+  padding: 0.6rem 1.7rem;
+  margin-right: 1.2rem;
+  display: inline-block;
+}
+
+.homeContainerInfosText h1 {
+  font-size: 6.2rem;
+  color: #212121;
+  margin: 2.4rem 0;
+}
+
+.homeContainerInfosText h1 + p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #545252;
+  margin-bottom: 4.4rem;
+}
+
+.homeContainerInfosImage img {
+  width: 54rem;
+}

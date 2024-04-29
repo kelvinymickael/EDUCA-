@@ -1,0 +1,25 @@
+.aboutContainer {
+    max-width: 144rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 10rem;
+}
+
+.aboutContainerInfosRight {
+    max-width: 69.7rem;
+}
+
+.aboutContainerInfosRight h2 {
+    font-size: 4.2rem;
+    font-weight: 400;
+    color: #212121;
+}
+
+.aboutContainerInfosRight p {
+    font-size: 1.8rem;
+    color: #545252;
+    font-weight: 400;
+    margin: 3.2rem 0;
+}

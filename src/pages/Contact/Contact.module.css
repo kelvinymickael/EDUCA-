@@ -1,0 +1,45 @@
+.contactContainer {
+  max-width: 90rem;
+  height: 18.3rem;
+  margin: auto;
+  background-color: #fff;
+  margin-top: 36.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  top: 9rem;
+}
+
+.contactContainerInfosLeft h3 {
+  font-size: 3.2rem;
+  color: #212121;
+  font-weight: 400;
+}
+
+.contactContainerInfosLeft p {
+    font-size: 1.8rem;
+    color: #545252;
+    font-weight: 400;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.contactContainerInfosRight {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.4rem;
+    gap: 2rem;
+    width: 16rem;
+    height: 5rem;
+    border-radius: .4rem;
+    background-color: #10B817;
+    cursor: pointer;
+}
+
+.contactContainerInfosRight p {
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
