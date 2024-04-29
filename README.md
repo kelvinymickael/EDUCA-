@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://kelvinymickael.github.io/EDUCA-PLUS/)
+- [Visite o projeto online](https://kelvinymickael.github.io/EDUCA_PLUS/)
 
 ## 🔖 Layout
 
